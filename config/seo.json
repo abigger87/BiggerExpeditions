@@ -1,15 +1,15 @@
 {
   "siteMetadata": {
-    "title": "Next.js Starter Blog",
+    "title": "Bigger Expeditions",
     "author": {
-      "name": "Jose Felix",
-      "summary": "who works building clean user interfaces with React."
+      "name": "Andreas Bigger",
+      "summary": ", a computer science undergraduate at USC focusing on building financial infrastructure through software."
     },
     "description": "A blog created with Next.js and Tailwind.css",
     "siteUrl": "https://nextjs-starter-blog-demo.netlify.app/",
     "language": "en-US",
     "social": {
-      "twitter": "Jose_R_Felix"
+      "twitter": "abigger87"
     }
   }
 }

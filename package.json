@@ -1,7 +1,7 @@
 {
-  "name": "nextjs-blog-starter",
+  "name": "BiggerExpeditions",
   "version": "0.2.0",
-  "description": "A Next.js template for a blog website.",
+  "description": "BiggerExpeditions Next.js blog website.",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -37,9 +37,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jfelix61/nextjs-starter-blog.git"
+    "url": "git+https://github.com/abigger87/BiggerExpeditions"
   },
-  "homepage": "https://github.com/Jfelix61/nextjs-starter-blog#readme",
+  "homepage": "https://biggerexpeditions.com",
   "keywords": [
     "next.js",
     "blog",
